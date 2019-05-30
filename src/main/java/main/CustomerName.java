@@ -10,8 +10,11 @@ public class CustomerName{
 		return name;
 	}
 
-	public void setName(String name) {
-		//write your code here
+	public void setName(String name)
+	{
+		this.name=name;
+				
+				
 	}
 	
 }
